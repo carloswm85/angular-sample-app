@@ -5,15 +5,15 @@ https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-githu
 
 Install Angular, and create a little sample app:
 
-	npm install -g @angular/cli
-	ng version
-	ng new sample-app
+	$ npm install -g @angular/cli
+	$ ng version
+	$ ng new sample-app
 
 - https://angular.io/cli
 
 Then run on local host using:
 
-	ng serve
+	$ ng serve
 
 
 ---
