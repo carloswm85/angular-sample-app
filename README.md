@@ -1,3 +1,26 @@
+
+# Easy Steps to Host an Angular App in GitHub Pages
+
+https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx#creating-an-angular-app
+
+Install Angular, and create a little sample app:
+
+	npm install -g @angular/cli
+	ng version
+	ng new sample-app
+
+- https://angular.io/cli
+
+Then run on local host using:
+
+	ng serve
+
+
+---
+_~ Default information initialized with the new app command, is below this sentence. ~_
+
+---
+
 # SampleApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
